@@ -9,7 +9,7 @@ name: Yargo
 description: Web Developer from Université de Sherbrooke
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://jira.outils.usherbrooke.ca/secure/useravatar?avatarId=13240
+avatar: /images/useravatar.svg
 
 #
 # Flags below are optional
